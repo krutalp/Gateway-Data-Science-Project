@@ -3,4 +3,8 @@
 Krutal, Anusha, Gracelyn 
 
 
-[embed]file:///C:/Users/disc2/Downloads/Research-Poster-Template%20(2).pdf[/embed]
+
+
+JHU Applied Mathematics and Statistics:
+https://engineering.jhu.edu/ams/news/undergraduate-students-investigate-breast-cancer-images/
+
